@@ -1,1 +1,1 @@
-mysql
+python:alpine3.19
